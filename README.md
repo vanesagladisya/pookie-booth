@@ -67,6 +67,6 @@ Pookie Booth dikembangkan sebagai project pembelajaran web development untuk mel
 GitHub: [@vanesagladisya](https://github.com/vanesagladisya)
 
 ## Dokumentasi
-![dokumentasi] (1.png)
-![dokumentasi] (2.png)
-![dokumentasi] (3.png)
+![pookie-booth] (1.png)
+![pookie-booth] (2.png)
+![pookie-booth] (3.png)
